@@ -1,13 +1,13 @@
 # Sounds_for_Arduino
-Sounds for Arduino.  tone
+Sounds for Arduino. function tone
 
-## Список звуков / Sound list
+## Sound list:
 
-### // Мелодические интервалы / Melodic intervals
+### Melodic intervals
 
-* triad
+* triad 
 
-### //  Предупреждения / Warnings
+### Warnings
 
-* Звук тревоги 	/ Alarm sound
-* Счетчик Гейгера / Geiger counter
+* Alarm sound / Zvuk trevogi
+* Geiger counter / Schetchik Geygera
